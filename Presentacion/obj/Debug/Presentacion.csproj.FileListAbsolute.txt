@@ -1,0 +1,11 @@
+J:\TERMINADO\EjercicioForm\Presentacion\bin\Debug\Presentacion.exe.config
+J:\TERMINADO\EjercicioForm\Presentacion\bin\Debug\Presentacion.exe
+J:\TERMINADO\EjercicioForm\Presentacion\bin\Debug\Presentacion.pdb
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.Form1.resources
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.exe
+J:\TERMINADO\EjercicioForm\Presentacion\obj\Debug\Presentacion.pdb
