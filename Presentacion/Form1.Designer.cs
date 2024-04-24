@@ -56,7 +56,7 @@
             // v
             // 
             this.v.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.v.Location = new System.Drawing.Point(374, 116);
+            this.v.Location = new System.Drawing.Point(500, 107);
             this.v.Name = "v";
             this.v.Size = new System.Drawing.Size(79, 32);
             this.v.TabIndex = 1;
@@ -118,7 +118,7 @@
             // btnDEL
             // 
             this.btnDEL.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDEL.Location = new System.Drawing.Point(484, 116);
+            this.btnDEL.Location = new System.Drawing.Point(610, 107);
             this.btnDEL.Name = "btnDEL";
             this.btnDEL.Size = new System.Drawing.Size(79, 32);
             this.btnDEL.TabIndex = 6;
